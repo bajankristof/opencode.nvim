@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.2](https://github.com/nickjvandyke/opencode.nvim/compare/v0.10.1...v0.10.2) (2026-05-25)
+
+
+### Bug Fixes
+
+* **health:** log specific error when can't capture `opencode.nvim` hash ([1f6442f](https://github.com/nickjvandyke/opencode.nvim/commit/1f6442f4b0bb140ac3e87a37c53729a72605a1c3))
+* **select:** actually select chosen session ([a28aa15](https://github.com/nickjvandyke/opencode.nvim/commit/a28aa1580a94b704d3ad83f16ed4e3e2eb4ee5a5))
+* **server:** propagate _all_ API errors ([fb12acb](https://github.com/nickjvandyke/opencode.nvim/commit/fb12acb1a071935a1027ba3e3386f7072fefc37c))
+
 ## [0.10.1](https://github.com/nickjvandyke/opencode.nvim/compare/v0.10.0...v0.10.1) (2026-05-23)
 
 
